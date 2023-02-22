@@ -1,5 +1,5 @@
 # Chat-GPT Generated Content 
-# Higher-order nonlinear social system with feedback loops and social norms
+# Higher-order nonlinear social system with feedback loops and social norms (Pyhton) 
 # Building a higher-order nonlinear social system with feedback loops and social norms can be a complex and involved task, and the specific implementation details would depend on the specific system being modeled. However, here's a general example of how you could start building such a system in Python:
 
 import numpy as np
